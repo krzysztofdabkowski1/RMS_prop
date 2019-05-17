@@ -1,1 +1,1 @@
-# RMS_prop
+# Implementacja metody RMSprop w języku Julia
